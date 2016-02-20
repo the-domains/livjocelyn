@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:28:51.029Z'
-dateModified: '2016-02-20T21:28:37.001Z'
+datePublished: '2016-02-20T21:54:07.651Z'
+dateModified: '2016-02-20T21:53:21.625Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -24,7 +24,8 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1805b2d-7666-42cc-bd77-3881da8e6384.jpg)
 
-@LivJocelyn ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
+**_[@LivJocelyn][0]_**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2b0550-875e-4462-9756-45f7f35fe69b.jpg)
 
 SHARING THE JOURNEY OF AN ULTIMATE QUEST: MAKING SENSE OF THE WORLD AND OUR PLACE IN IT
@@ -42,3 +43,5 @@ to Dream This World into Being.
 
 REMEMBER THE SPIRIT, IGNITE THE FLAME
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a51cbd-f187-412a-9edd-1c24b5f30225.jpg)
+
+[0]: https://twitter.com/LivJocelyn?lang=en
