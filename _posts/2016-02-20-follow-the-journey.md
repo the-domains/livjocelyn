@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:26:31.143Z'
-dateModified: '2016-02-20T21:26:14.120Z'
+datePublished: '2016-02-20T21:27:21.622Z'
+dateModified: '2016-02-20T21:26:48.145Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -24,8 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1805b2d-7666-42cc-bd77-3881da8e6384.jpg)
 
-@LivJocelyn Through an Eye to The World
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
+@LivJocelyn ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2b0550-875e-4462-9756-45f7f35fe69b.jpg)
 
 SHARING THE JOURNEY OF AN ULTIMATE QUEST: MAKING SENSE OF THE WORLD AND OUR PLACE IN IT
