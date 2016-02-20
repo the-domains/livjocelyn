@@ -6,29 +6,29 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:12:49.035Z'
-dateModified: '2016-02-20T21:12:32.782Z'
+datePublished: '2016-02-20T21:26:01.262Z'
+dateModified: '2016-02-20T21:25:50.602Z'
 title: FOLLOW THE JOURNEY
 author: []
+sourcePath: _posts/2016-02-20-follow-the-journey.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-follow-the-journey.md
-published: true
 url: follow-the-journey/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1805b2d-7666-42cc-bd77-3881da8e6384.jpg)
+
 @LivJocelyn Through an Eye to The World
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2b0550-875e-4462-9756-45f7f35fe69b.jpg)
 
-SHARING THE JOURNEY OF AN ULTIMATE QUEST
-
-MAKING SENSE OF THE WORLD AND OUR PLACE IN IT
+SHARING THE JOURNEY OF AN ULTIMATE QUEST: MAKING SENSE OF THE WORLD AND OUR PLACE IN IT
 
 I believe in Remembering the Spirit of our
 interconnection of nature, where we have come from.  I believe in Igniting
@@ -38,5 +38,7 @@ capabilities.
 It is time for an
 educational platform that unifies the human spirit and our inherent capacities
 to Dream This World into Being.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff53b07-d3b3-4b80-a680-a793b53d1d32.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30114e4e-f155-4520-9069-e2a268916b22.jpg)
 
 REMEMBER THE SPIRIT, IGNITE THE FLAME
