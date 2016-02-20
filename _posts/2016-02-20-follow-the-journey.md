@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:27:21.622Z'
-dateModified: '2016-02-20T21:26:48.145Z'
+datePublished: '2016-02-20T21:28:51.029Z'
+dateModified: '2016-02-20T21:28:37.001Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -41,3 +41,4 @@ to Dream This World into Being.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30114e4e-f155-4520-9069-e2a268916b22.jpg)
 
 REMEMBER THE SPIRIT, IGNITE THE FLAME
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a51cbd-f187-412a-9edd-1c24b5f30225.jpg)
