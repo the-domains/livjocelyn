@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'https://www.youtube.com/channel/UCSX8M_s77394G-ESy9HMHuA'
-datePublished: '2016-02-20T22:03:53.013Z'
-dateModified: '2016-02-20T21:59:04.123Z'
+datePublished: '2016-02-20T23:49:01.490Z'
+dateModified: '2016-02-20T22:07:13.832Z'
 title: 'Livin The Life, Lovin the Journey * @LivJocelyn'
 author: []
 sourcePath: _posts/2016-02-20-livin-the-life-lovin-the-journey-livjocelyn.md
