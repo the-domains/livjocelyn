@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:26:01.262Z'
-dateModified: '2016-02-20T21:25:50.602Z'
+datePublished: '2016-02-20T21:26:31.143Z'
+dateModified: '2016-02-20T21:26:14.120Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
