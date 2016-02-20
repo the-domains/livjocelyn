@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T23:45:34.245Z'
-dateModified: '2016-02-20T23:44:50.949Z'
+datePublished: '2016-02-20T23:46:18.957Z'
+dateModified: '2016-02-20T23:45:40.445Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
