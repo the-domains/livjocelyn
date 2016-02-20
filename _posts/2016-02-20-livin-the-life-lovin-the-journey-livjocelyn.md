@@ -6,23 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://www.youtube.com/channel/UCSX8M_s77394G-ESy9HMHuA'
-datePublished: '2016-02-20T21:47:36.079Z'
-dateModified: '2016-02-20T21:46:33.996Z'
+datePublished: '2016-02-20T22:03:53.013Z'
+dateModified: '2016-02-20T21:59:04.123Z'
 title: 'Livin The Life, Lovin the Journey * @LivJocelyn'
 author: []
+sourcePath: _posts/2016-02-20-livin-the-life-lovin-the-journey-livjocelyn.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-20-livin-the-life-lovin-the-journey-livjocelyn.md
-published: true
 url: livin-the-life-lovin-the-journey-livjocelyn/index.html
 _type: Article
 
 ---
-JOCELYN ANNA LERNOUT
+[JOCELYN ANNA LERNOUT][0]
 
-THE ACTRESS, ARTIST & FILMMAKER
+[THE ACTRESS, ARTIST][1] & [FILMMAKER][2]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8d02152-844f-481e-a570-78a24f4e3a02.jpg)
+
+[0]: null
+[1]: https://www.youtube.com/channel/UCSX8M_s77394G-ESy9HMHuA
+[2]: https://www.youtube.com/channel/UCYCg5dk1Cuz73svys5MlBDg
