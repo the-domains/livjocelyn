@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T21:54:07.651Z'
-dateModified: '2016-02-20T21:53:21.625Z'
+datePublished: '2016-02-20T23:45:34.245Z'
+dateModified: '2016-02-20T23:44:50.949Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1805b2d-7666-42cc-bd77-3881da8e6384.jpg)
 
 **_[@LivJocelyn][0]_**
+
+**_[Jocelyn Anna Lernout][1]_**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2a8d968-8223-4a70-a078-f881c73373bb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d2b0550-875e-4462-9756-45f7f35fe69b.jpg)
 
@@ -42,6 +44,14 @@ to Dream This World into Being.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30114e4e-f155-4520-9069-e2a268916b22.jpg)
 
 REMEMBER THE SPIRIT, IGNITE THE FLAME
+
+Check out my Channels
+
+Journey of an [Actress and Artist][2]
+
+Journey of a Filmmaker
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a51cbd-f187-412a-9edd-1c24b5f30225.jpg)
 
 [0]: https://twitter.com/LivJocelyn?lang=en
+[1]: https://www.facebook.com/Jocelyn-Anna-Lernout-198650163486974/
+[2]: https://www.youtube.com/channel/UCSX8M_s77394G-ESy9HMHuA
