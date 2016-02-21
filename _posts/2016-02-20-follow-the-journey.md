@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-21T22:48:25.935Z'
-dateModified: '2016-02-21T22:47:23.646Z'
+datePublished: '2016-02-21T23:41:21.652Z'
+dateModified: '2016-02-21T23:41:07.302Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -26,9 +26,7 @@ _type: Article
 
 **_[@LivJocelyn][0]_**
 
-**_Jocelyn Anna Lernout_**
-
-**_Jocelynanna@Live.com_**
+**_Jocelyn Anna Lernout, _**_Connect with Jocelyn _**_Email Jocelynanna@Live.com_**
 
 I Believe in the Good & \*Aspire, Learn & Create Stories & Art to share Awareness of 'The World, Universe & what it means to [\*LIV a Dream'][1]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d08903e8db0d0f9c12c0f6b88bb5346e664515c3.jpg)
