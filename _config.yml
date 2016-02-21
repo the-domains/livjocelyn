@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: LIVJOCELYN.COM
+  google: null
   facebook: null
   twitter: null
 opengraph:
