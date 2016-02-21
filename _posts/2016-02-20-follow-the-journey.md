@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-20T23:46:18.957Z'
-dateModified: '2016-02-20T23:45:40.445Z'
+datePublished: '2016-02-21T00:01:00.018Z'
+dateModified: '2016-02-21T00:00:37.123Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -41,7 +41,7 @@ It is time for an
 educational platform that unifies the human spirit and our inherent capacities
 to Dream This World into Being.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ff53b07-d3b3-4b80-a680-a793b53d1d32.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30114e4e-f155-4520-9069-e2a268916b22.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdfb2801c6bc8f8c0396bea0481d8aca87bde492.jpg)
 
 REMEMBER THE SPIRIT, IGNITE THE FLAME
 
