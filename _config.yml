@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: "\t50.63.202.51"
+  google: ' 52.32.215.222'
   facebook: null
   twitter: null
 opengraph:
