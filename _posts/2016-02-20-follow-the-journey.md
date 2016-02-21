@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://twitter.com/LivJocelyn?lang=en'
-datePublished: '2016-02-21T00:01:00.018Z'
-dateModified: '2016-02-21T00:00:37.123Z'
+datePublished: '2016-02-21T00:05:38.572Z'
+dateModified: '2016-02-21T00:05:24.539Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -51,6 +51,7 @@ Journey of an [Actress and Artist][2]
 
 Journey of a Filmmaker
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76a51cbd-f187-412a-9edd-1c24b5f30225.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/da0380f8-40e8-4ef5-a472-8d1aede21ce3.jpg)
 
 [0]: https://twitter.com/LivJocelyn?lang=en
 [1]: https://www.facebook.com/Jocelyn-Anna-Lernout-198650163486974/
