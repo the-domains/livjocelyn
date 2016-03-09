@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '@LivJocelyn'
-datePublished: '2016-03-08T16:41:30.551Z'
-dateModified: '2016-03-08T16:41:29.957Z'
+datePublished: '2016-03-09T17:22:06.210Z'
+dateModified: '2016-03-09T17:21:49.326Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -53,6 +53,78 @@ Journey of an [Actress and Artist][3]
 [Journey of a Filmmaker][4]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ba5f6b19f848ce3b480529fd07a83bb2b8e5fc3.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecbacd5a5da120693455ff08786a9b7402059923.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9eff4a-61e7-43e2-8430-d3dc5c5f4357.png)
+
+Reflection: Miss Universe Canada BIO
+
+Jocelyn
+is a passionate citizen of the world who is actively pursuing her abilities to
+affect change and inspire others.
+
+She
+admires children and youth and the delight they have while experiencing the
+simpler things in life.
+
+Jocelyn
+was born and raised in Ontario, Canada and she has also lived on the West Coast of Canada from 2009-2011 which brought growth, opportunity
+and an open sense of appreciating people from all walks of life.
+
+Through
+her passion of community engagement she has explored her creative talents and
+discovered stories that will be with her for a lifetime of humanitarian work.
+
+Jocelyn received a degree in Psychology and
+English with focus on Social Education and Psychology of Religion.
+
+As Jocelyn thrives on both reading and
+studying, she continued her educational pursuits through various areas
+including Aboriginal music, Broadcast Journalism, Filmmaking, Color Theory and
+workshops for Visionary Leaders.
+
+Through
+her exploring nature she has been actively involved in the community, including
+film work as an interviewer, director and editor for Top Teen BC and a Miss BC
+Charity calendar event.
+
+Jocelyn is very happy
+to get involved in community organizations such as Soup Sisters and The
+Republic OC.
+
+Jocelyn
+also loves being active and values music of all kinds. 
+
+She joyfully
+embraces the games of ping-pong, fooseball and tennis and she has played soccer
+for over 18 years which coincides with her dedication and vision to bring cultural
+filmmaking to the Worldly event of Fifa.
+
+As a
+traveler, artist and filmmaking journalist, Jocelyn sees the world in a
+positive light.
+
+She recognizes the
+shared history of humanity as an ever forward journey that brings us to where
+we are today: we are able to share our knowledge, celebrate multiculturalism
+and build prosperity.
+
+With a
+heart of optimism and promotion of self discovery Jocelyn lives her life as an
+ever learning quest to offer insight and inspiration for leading a healthy,
+active and engaged life.
+
+She believes in
+following your heart, listening to intuition and making time in this world to
+find and believe in yourself. 
+
+As a
+writer and filmmaker who loves both sides of the camera Jocelyn aspires to work
+within the realms of music and film.
+
+She
+is also creating an organization that will allow students to learn about the
+world and their community-cultural heritage while offering students self
+reflective opportunities to discover their passions and explore their dreams
+while feeling empowered to pursue them.
 
 [0]: https://twitter.com/LivJocelyn?lang=en
 [1]: https://about.me/cultureme
