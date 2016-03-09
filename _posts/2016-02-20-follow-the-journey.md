@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '@LivJocelyn'
-datePublished: '2016-03-09T17:22:06.210Z'
-dateModified: '2016-03-09T17:21:49.326Z'
+datePublished: '2016-03-09T19:31:06.476Z'
+dateModified: '2016-03-09T19:29:53.476Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -22,7 +22,7 @@ url: follow-the-journey/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1805b2d-7666-42cc-bd77-3881da8e6384.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a0945b4922c855e41182ccc30002815410812a3.jpg)
 
 **_[@LivJocelyn][0]_**
 
@@ -55,7 +55,7 @@ Journey of an [Actress and Artist][3]
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecbacd5a5da120693455ff08786a9b7402059923.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d9eff4a-61e7-43e2-8430-d3dc5c5f4357.png)
 
-Reflection: Miss Universe Canada BIO
+Reflection: Miss Universe Canada BIO: 2011
 
 Jocelyn
 is a passionate citizen of the world who is actively pursuing her abilities to
@@ -86,17 +86,13 @@ her exploring nature she has been actively involved in the community, including
 film work as an interviewer, director and editor for Top Teen BC and a Miss BC
 Charity calendar event.
 
-Jocelyn is very happy
-to get involved in community organizations such as Soup Sisters and The
-Republic OC.
-
 Jocelyn
 also loves being active and values music of all kinds. 
 
 She joyfully
 embraces the games of ping-pong, fooseball and tennis and she has played soccer
 for over 18 years which coincides with her dedication and vision to bring cultural
-filmmaking to the Worldly event of Fifa.
+filmmaking to Worldly events such as FIFA and the Olympics.
 
 As a
 traveler, artist and filmmaking journalist, Jocelyn sees the world in a
@@ -105,7 +101,7 @@ positive light.
 She recognizes the
 shared history of humanity as an ever forward journey that brings us to where
 we are today: we are able to share our knowledge, celebrate multiculturalism
-and build prosperity.
+and build prosperity using our capabilities as visionary dreamers with innovative intelligence.
 
 With a
 heart of optimism and promotion of self discovery Jocelyn lives her life as an
