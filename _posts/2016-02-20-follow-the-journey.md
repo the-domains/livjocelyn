@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '@LivJocelyn'
-datePublished: '2016-03-09T19:43:42.026Z'
-dateModified: '2016-03-09T19:35:29.362Z'
+datePublished: '2016-03-21T18:03:23.011Z'
+dateModified: '2016-03-21T18:03:19.519Z'
 title: FOLLOW THE JOURNEY
 author: []
 sourcePath: _posts/2016-02-20-follow-the-journey.md
@@ -121,6 +121,8 @@ is also creating an organization that will allow students to learn about the
 world and their community-cultural heritage while offering students self
 reflective opportunities to discover their passions and explore their dreams
 while feeling empowered to pursue them.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/538f2ed4-73fd-4912-83de-6dc9126ebfc3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/999a4090-017d-4d99-9cb1-7a48c0d9f261.jpg)
 
 [0]: https://twitter.com/LivJocelyn?lang=en
 [1]: https://about.me/cultureme
